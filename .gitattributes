@@ -1,9 +1,0 @@
-# Example of a `.gitattributes` file which reclassifies `.sql` files as SQL:
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
-
-# Detecting different formats
-*.py linguist-detectable=true
-*.md linguist-detectable=true
-*.xlsx linguist-detectable=true
-*.xlsx linguist-language=excel
