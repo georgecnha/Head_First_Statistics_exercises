@@ -6,4 +6,4 @@
 *.py linguist-detectable=true
 *.md linguist-detectable=true
 *.xlsx linguist-detectable=true
-
+*.xlsx linguist-language=excel
