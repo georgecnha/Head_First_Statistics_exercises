@@ -5,7 +5,7 @@ Todos os exercícios foram realizados utilizando funções do Excel e Biblioteca
 
 ### excel
 
-Os arquivos contidos nessa pasta contém a solução de cada exercício com uso de funções do excel.Os números que iniciam os nomes dos arquivos são referentes aos capítulos do livro.
+Os arquivos contidos nessa pasta contém a solução de cada exercício com uso de funções do excel. Os números que iniciam os nomes dos arquivos são referentes aos capítulos do livro.
 
 ### python_notebooks
 
